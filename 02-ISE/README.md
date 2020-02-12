@@ -8,6 +8,7 @@
 &nbsp;
 
   ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3EB%7D%5E%7BSoP%7D%3D)
+<a href="https://www.codecogs.com/eqnedit.php?latex=a\cdot&space;\bar{b}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a\cdot&space;\bar{b}" title="a\cdot \bar{b}" /></a>
 
   &nbsp;
     
