@@ -12,6 +12,7 @@
   &nbsp;
     
  ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3DB%7D%5E%7BSoP%7D%3D)
+ <a href="https://www.codecogs.com/eqnedit.php?latex=\bar{a}\cdot&space;\bar{b}&plus;a\cdot&space;b" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{a}\cdot&space;\bar{b}&plus;a\cdot&space;b" title="\bar{a}\cdot \bar{b}+a\cdot b" /></a>
     
  &nbsp;
     
