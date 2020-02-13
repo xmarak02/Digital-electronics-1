@@ -18,6 +18,6 @@
  &nbsp;
     
  ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3CB%7D%5E%7BPoS%7D%3D)
- <a href="https://www.codecogs.com/eqnedit.php?latex=\bar{a}&plus;&space;b" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{a}&plus;&space;b" title="\bar{a}+ b" /></a>
+ <a href="https://www.codecogs.com/eqnedit.php?latex=\bar{A}&plus;&space;B" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{A}&plus;&space;b" title="\bar{A}+ B" /></a>
     
  &nbsp;
