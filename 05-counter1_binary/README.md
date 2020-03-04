@@ -1,3 +1,5 @@
+1.
+
 ![equation](https://latex.codecogs.com/gif.latex?T_%7Bclk%7D%20%3D%20%5Cfrac%7B1%7D%7Bf_%7Bclk%7D%7D%20%3D)
     
  &nbsp;
