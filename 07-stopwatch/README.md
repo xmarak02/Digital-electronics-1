@@ -4,6 +4,7 @@
 
 In this laboratory exercise you will implement BCD counters. You will use the Xilinx Isim simulator or the EDA playground online tool. You will use a push button on the CoolRunner board as reset device, onboard clock signal with frequency of 10&nbsp;kHz for synchronization, and 7-segment display as output device.
 
+![basys_stopwatch](../../Images/basys_stopwatch.jpg)
 ![basys_stopwatch](https://github.com/xpazde15/Digital-electronics-1/blob/master/Images/stopky1ms.JPG)
 
 
@@ -69,3 +70,8 @@ Implement the top level in VHDL **or instead** draw a block diagram of used modu
 ## Synchronize git
 
 Your repository must include README file, source code for the stopwatch, testbench code, screenshot of the correct simulation, and source code or schematic of top level implementation. Submit your solution **no later** than Friday.
+
+## Screenshot of simulation
+
+![basys_stopwatch](https://github.com/xpazde15/Digital-electronics-1/blob/master/Images/stopky1ms.JPG)
+
