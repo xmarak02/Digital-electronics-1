@@ -1,8 +1,0 @@
-V3 3
-FL /home/lab661/Documents/marak/Digital-electronics-1/02-ISE/comparator/top.vhd 2020/02/13.09:43:39 P.20131013
-EN work/top 1581583424 \
-      FL /home/lab661/Documents/marak/Digital-electronics-1/02-ISE/comparator/top.vhd \
-      PB ieee/std_logic_1164 1381692176
-AR work/top/Behavioral 1581583425 \
-      FL /home/lab661/Documents/marak/Digital-electronics-1/02-ISE/comparator/top.vhd \
-      EN work/top 1581583424
