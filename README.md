@@ -8,5 +8,5 @@
 
  ```
  link 
- [link](https://github.com/xmarak02/Digital-electronics-1/")
+ [link](https://github.com/xmarak02/Digital-electronics-1)
  
