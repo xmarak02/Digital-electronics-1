@@ -7,7 +7,7 @@
 
 
  ```
- link 
+ Odkaz na github 
  [link](https://github.com/xmarak02/Digital-electronics-1)
  
  
