@@ -7,8 +7,8 @@
 
 
  ```
- Odkaz na github 
- [link](https://github.com/xmarak02/Digital-electronics-1)
+  
+ [Odkaz na github](https://github.com/xmarak02/Digital-electronics-1)
  
  
  ![equation](https://latex.codecogs.com/gif.latex?f%20%3D%20a%5Ccdot%20%5Coverline%7Bb%7D%20&plus;%20%5Coverline%7Bb%7D%5Ccdot%20%5Coverline%7Bc%7D)
