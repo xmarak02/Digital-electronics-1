@@ -56,7 +56,7 @@ end architecture dataflow;
    
    
 
- ![signals1](signals1.png)
+ ![signals1](signals1.PNG)
    
    zkouska
    
