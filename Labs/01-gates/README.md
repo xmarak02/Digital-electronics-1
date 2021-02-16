@@ -65,7 +65,42 @@ end architecture dataflow;
    &nbsp;
  ![rov](distributives.png)
    
+  [Odkaz na edaplayground](https://www.edaplayground.com/x/iXQe)
+  
 
+ ```vhdl
+------------------------------------------------------------------------
 
+library ieee;               -- Standard library
+use ieee.std_logic_1164.all;-- Package for data types and logic operations
 
-   
+------------------------------------------------------------------------
+-- Entity declaration for basic gates
+------------------------------------------------------------------------
+entity gates is
+    port(
+        x_i    : in  std_logic;         -- Data input
+        y_i    : in  std_logic;         -- Data input
+        z_i	   : in  std_logic;			-- Data input
+        f1_1   : out std_logic;        -- first function first equation
+        f1_2   : out std_logic;        -- first function second equation
+        f2_1   : out std_logic;        -- second function first equation
+        f2_2   : out std_logic        -- second function second equation
+    );
+end entity gates;
+
+------------------------------------------------------------------------
+-- Architecture body for basic gates
+------------------------------------------------------------------------
+architecture dataflow of gates is
+begin
+    f1_1  <= ((x_i and y_i) or (x_i and z_i));
+    f1_2 <= (x_i and (y_i or z_i));
+    f2_1 <= ((x_i or y_i) and (x_i or z_i));
+    f2_2 <= (x_i or (y_i and z_i));
+
+end architecture dataflow;
+
+ ```
+ 
+ ![signals1](signals2.PNG)
