@@ -2,7 +2,10 @@
 
 ##nadpis druhé úrovne##
 *gates*
-##VHDL##
+   
+   &nbsp;
+
+##VHDL
  ```vhdl
 
 library ieee;               -- Standard library
@@ -54,8 +57,8 @@ end architecture dataflow;
    
    
    
-   
-   ![equation](http://latex.codecogs.com/svg.latex?f(c,b,a)_{\textup{NAND}})
+
+ ![signals1](signals1.png)
    
    zkouska
    
