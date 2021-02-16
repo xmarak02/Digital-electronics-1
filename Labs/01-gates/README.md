@@ -1,4 +1,4 @@
-# Digital-electronics-1
+# 01 - gates
 
 ##nadpis druhé úrovne##
 *gates*
@@ -93,5 +93,7 @@
    | 1 | 0 | 1 | 1 | 1 | 1 |
    | 1 | 1 | 0 | 0 | 0 | 0 |
    | 1 | 1 | 1 | 0 | 0 | 0 |
-
+ 
+ 
+ ../rovnice.gif
    
