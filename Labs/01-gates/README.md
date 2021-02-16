@@ -43,12 +43,12 @@ end architecture dataflow;
 
    | **c** | **b** |**a** | ![equation](https://latex.codecogs.com/gif.latex?f) | ![equation](http://latex.codecogs.com/svg.latex?f(c,b,a)_{\textup{NAND}}) | ![equation](http://latex.codecogs.com/svg.latex?f(c,b,a)_{\textup{NOR}}) |
    | :-: | :-: | :-: | :-: | :-: | :-: |
-   | 0 | 0 | 0 | 1 | 1 | 1 |
-   | 0 | 0 | 1 | 0 | 0 | 0 |
+   | 0 | 0 | 0 | 1 | 0 | 1 |
+   | 0 | 0 | 1 | 1 | 1 | 1 |
    | 0 | 1 | 0 | 0 | 0 | 0 |
    | 0 | 1 | 1 | 0 | 0 | 0 |
-   | 1 | 0 | 0 | 1 | 1 | 1 |
-   | 1 | 0 | 1 | 1 | 1 | 1 |
+   | 1 | 0 | 0 | 0 | 0 | 0 |
+   | 1 | 0 | 1 | 1 | 0 | 1 |
    | 1 | 1 | 0 | 0 | 0 | 0 |
    | 1 | 1 | 1 | 0 | 0 | 0 |
    
