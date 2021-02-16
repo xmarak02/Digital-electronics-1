@@ -2,7 +2,8 @@
 [Odkaz na github](https://github.com/xmarak02/Digital-electronics-1)
 ## De Morgan
    &nbsp;
-
+![rovnice](rovnice.gif)
+      &nbsp;
 ### VHDL
 [Odkaz na edaplayground](https://www.edaplayground.com/x/W463)
 
@@ -40,8 +41,7 @@ end architecture dataflow;
   
   
    
- ![rovnice](rovnice.gif)
-   
+ 
    &nbsp;
 
    | **c** | **b** |**a** | ![equation](https://latex.codecogs.com/gif.latex?f) | ![equation](http://latex.codecogs.com/svg.latex?f(c,b,a)_{\textup{NAND}}) | ![equation](http://latex.codecogs.com/svg.latex?f(c,b,a)_{\textup{NOR}}) |
@@ -61,7 +61,7 @@ end architecture dataflow;
  ![signals1](signals1.PNG)
 &nbsp;
 &nbsp;
-## De Morgan
+## Distributive laws
    &nbsp;
  ![rov](distributives.png)
    
