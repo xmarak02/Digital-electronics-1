@@ -1,11 +1,9 @@
 # 01 - gates
 
-##nadpis druhé úrovne##
-*gates*
-   
+## De Morgan
    &nbsp;
 
-##VHDL
+## VHDL
  ```vhdl
 
 library ieee;               -- Standard library
