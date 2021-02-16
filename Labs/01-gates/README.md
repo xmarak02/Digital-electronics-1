@@ -55,8 +55,7 @@ end architecture dataflow;
    
    
    
-   
-   
+   ![equation](http://latex.codecogs.com/svg.latex?f(c,b,a)_{\textup{NAND}})
    
    zkouska
    
