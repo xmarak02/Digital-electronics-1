@@ -1,9 +1,11 @@
 # 01 - gates
-
+[Odkaz na github](https://github.com/xmarak02/Digital-electronics-1)
 ## De Morgan
    &nbsp;
 
-## VHDL
+### VHDL
+[Odkaz na edaplayground](https://www.edaplayground.com/x/W463)
+
  ```vhdl
 
 library ieee;               -- Standard library
