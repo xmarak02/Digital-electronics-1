@@ -61,9 +61,13 @@ end architecture dataflow;
  ![signals1](signals1.PNG)
 &nbsp;
 &nbsp;
+
+
 ## Distributive laws
    &nbsp;
  ![rov](distributives.png)
+ 
+  ![signals1](signals2.PNG)
    
   [Odkaz na edaplayground](https://www.edaplayground.com/x/iXQe)
   
@@ -103,4 +107,4 @@ end architecture dataflow;
 
  ```
  
- ![signals1](signals2.PNG)
+
