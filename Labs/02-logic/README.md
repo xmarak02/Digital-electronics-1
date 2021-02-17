@@ -39,7 +39,7 @@
 
 
 
-![greaterSoP](/greaterSoP.png)
+![greaterSoP](../greaterSoP.png)
 
 
 
