@@ -1,8 +1,3 @@
----
-
-typora-root-url: ./
----
-
 # 02-Logic
 
 
