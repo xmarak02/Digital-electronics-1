@@ -29,13 +29,13 @@
 
 
 
-##### K-map equals 
+### K-map equals 
 
 ![eqlSoP](eqlSoP.png)
 
 
 
-##### K-map greater_SoP:
+### K-map greater_SoP:
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-##### K-map less_PoS:
+### K-map less_PoS:
 
 
 
