@@ -31,7 +31,7 @@
 
 ##### K-map equals 
 
-![eqlSoP](/eqlSoP.png)
+![eqlSoP](eqlSoP.png)
 
 
 
