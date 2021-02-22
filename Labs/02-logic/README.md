@@ -55,8 +55,7 @@
 
 ![lessPoS](lessPoS.png)
 
-<img src="http://latex.codecogs.com/svg.latex?lessPoSmin&space;=&space;(\overline{B1}&plus;A1)\cdot(\overline{B0}&plus;A1)\cdot(A0&plus;A1)\cdot(\overline{B0}&plus;\overline{B1})\cdot(\overline{B1}&plus;A0)&space;&space;" title="http://latex.codecogs.com/svg.latex?lessPoSmin = (\overline{B1}+A1)\cdot(\overline{B0}+A1)\cdot(A0+A1)\cdot(\overline{B0}+\overline{B1})\cdot(\overline{B1}+A0) " />
-
+<img src="http://latex.codecogs.com/svg.latex?lessPoSmin&space;=&space;(\overline{B1}&plus;A1)\cdot(\overline{B0}&plus;A1)\cdot(A0&plus;A1)\cdot(\overline{B0}&plus;\overline{B1})\cdot(\overline{B1}&plus;A0)" title="http://latex.codecogs.com/svg.latex?lessPoSmin = (\overline{B1}+A1)\cdot(\overline{B0}+A1)\cdot(A0+A1)\cdot(\overline{B0}+\overline{B1})\cdot(\overline{B1}+A0)" />
 
 
 ## Part 3 
