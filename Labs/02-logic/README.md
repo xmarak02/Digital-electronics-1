@@ -58,6 +58,8 @@
 <img src="http://latex.codecogs.com/svg.latex?lessPoSmin&space;=&space;(\overline{B1}&plus;A1)\cdot(\overline{B0}&plus;A1)\cdot(A0&plus;A1)\cdot(\overline{B0}&plus;\overline{B1})\cdot(\overline{B1}&plus;A0)" title="http://latex.codecogs.com/svg.latex?lessPoSmin = (\overline{B1}+A1)\cdot(\overline{B0}+A1)\cdot(A0+A1)\cdot(\overline{B0}+\overline{B1})\cdot(\overline{B1}+A0)" />
 
 
+[https://www.edaplayground.com/x/8Ttz](https://www.edaplayground.com/x/8Ttz)
+
 ## Part 3 
 
 ###### design.vhd
@@ -233,5 +235,5 @@ end architecture testbench;
 
 
 
-[EDA Playground](https://www.edaplayground.com/x/9zNp)
+[https://www.edaplayground.com/x/9zNp](https://www.edaplayground.com/x/9zNp)
 
