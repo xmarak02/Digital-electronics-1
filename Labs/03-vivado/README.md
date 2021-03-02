@@ -158,11 +158,11 @@ A nakonec tlačítkem Finish projekt vytvoříme
 
 Pokud chceme přidat soubor, např testbench, tak pomocí File>Add source (nebo Alt+A) vyvoláme okno kde vyberem nejprve typ souboru:
 
-![11](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\11.PNG)
+![11](tutorial/11.PNG)
 
 Opět vybereme typ souboru a zadáme název
 
-![12](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\12.PNG)
+![12](tutorial/12.PNG)
 
 Simulace se spistí ze záložky Flow>Run Simulation>Run Behavioral Simulation nebo z bočního navigátoru v sekci Simulation
 
