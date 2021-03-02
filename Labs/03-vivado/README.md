@@ -165,8 +165,3 @@ Opět vybereme typ souboru a zadáme název
 ![12](tutorial/12.PNG)
 
 Simulace se spistí ze záložky Flow>Run Simulation>Run Behavioral Simulation nebo z bočního navigátoru v sekci Simulation
-
-
-```
-
-```
