@@ -119,36 +119,38 @@ end Behavioral;
 
 
 Založení projektu:
+
 ![01](tutorial/01.PNG)
+
 Pomocí wizardu projdeme založení projektu
 
-![02](tutorial\02.PNG)
+![02](tutorial/02.PNG)
 
 ve wizardu se pohybujeme šipkami next
 
 Pojmenování projektu a jeho umístění:
 
-![03](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\03.PNG)
+![03](tutorial/03.PNG)
 
 Vybereme RTL project
 
- ![04](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\04.PNG)
+ ![04](tutorial/04.PNG)
 
 Následně přidáme zdrojové soubory vybráním create file a vybereme typ souboru VHDL 
 
-![05](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\05.PNG)
+![05](tutorial/05.PNG)
 
 Můžeme přidat constraints files
 
-![06](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\06.PNG)
+![06](tutorial/06.PNG)
 
 Vybereme desku Nexys A7-50T
 
-![07](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\07.PNG)
+![07](tutorial/07.PNG)
 
 A nakonec tlačítkem Finish projekt vytvoříme
 
-![08](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\08.PNG)
+![08](tutorial/08.PNG)
 
 
 
