@@ -119,7 +119,7 @@ end Behavioral;
 
 
 Založení projektu:
-![01](../../\01.PNG)
+![01](../../01.PNG)
 Pomocí wizardu projdeme založení projektu
 
 ![02](tutorial\02.PNG)
