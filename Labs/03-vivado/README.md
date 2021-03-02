@@ -112,7 +112,7 @@ end Behavioral;
 
 ##### simulation
 
-![sim](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\sim.png)
+![sim](..\sim.png)
 
 ## 3. Tutorial
 
