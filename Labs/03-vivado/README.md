@@ -122,7 +122,7 @@ Založení projektu:
 ![01](D:\DE1\marak\Digital-electronics-1\Labs\03-vivado\tutorial\01.PNG)
 Pomocí wizardu projdeme založení projektu
 
-![02](\tutorial\02.PNG)
+![02](tutorial\02.PNG)
 
 ve wizardu se pohybujeme šipkami next
 
