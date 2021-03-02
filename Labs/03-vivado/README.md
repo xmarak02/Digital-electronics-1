@@ -112,7 +112,7 @@ end Behavioral;
 
 ##### simulation
 
-![sim](..\sim.png)
+![sim](sim.png)
 
 ## 3. Tutorial
 
