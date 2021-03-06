@@ -240,4 +240,4 @@ p_stimulus : process
 
 ##### Screenshot with simulated time waveforms
 
-![](D:\DE1\marak\Digital-electronics-1\Labs\04-segment\top.PNG)
+![](top.PNG)
