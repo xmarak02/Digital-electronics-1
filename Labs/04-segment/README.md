@@ -151,7 +151,7 @@ p_stimulus : process
 
 
 
-![](D:\DE1\marak\Digital-electronics-1\Labs\04-segment\hex_7seg.PNG)
+![](hex_7seg.PNG)
 
 
 
