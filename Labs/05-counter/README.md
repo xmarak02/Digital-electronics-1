@@ -99,7 +99,7 @@ Po stisknutí generují logickou 1/+3,3 V.
 
 
 
-![](D:\DE1\marak\Digital-electronics-1\Labs\05-counter\sim.PNG)
+![](sim.PNG)
 
 
 
@@ -155,4 +155,4 @@ Po stisknutí generují logickou 1/+3,3 V.
 
 ##### Image of the top layer including both counters, ie a 4-bit bidirectional counter and a 16-bit counter with a 10 ms time base 
 
-![](D:\DE1\marak\Digital-electronics-1\Labs\05-counter\schema.PNG)
+![](schema.PNG)
