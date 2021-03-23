@@ -2,7 +2,7 @@
 
 ## Part 1
 
-![](wave.png)
+![](wave.PNG)
 
 ## Part 2
 
@@ -149,9 +149,9 @@ end architecture testbench;
 
 ##### Screenshot with simulated time waveforms
 
-![](sim.png)
+![](sim.PNG)
 
-![](sim1.png)
+![](sim1.PNG)
 
 ##### Listing of VHDL architecture of the top layer
 
