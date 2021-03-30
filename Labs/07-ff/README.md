@@ -2,7 +2,7 @@
 
 # Part 1
 
-![](eq.png)
+![](eq.PNG)
 
 
 
@@ -159,7 +159,7 @@ end process p_stimulus;
 
 #### d_ff_arst
 
-![](d_ff_arst.png)
+![](d_ff_arst.PNG)
 
 ```vhdl
  p_d_ff_arst : process (arst, clk)
@@ -250,7 +250,7 @@ uut_d_ff_arst : entity work.d_ff_arst
 
 #### d_ff_rst
 
-![](d_ff_rst.png)
+![](d_ff_rst.PNG)
 
 ```vhdl
 architecture Behavioral of d_ff_rst is
@@ -360,7 +360,7 @@ begin
 
 #### jk_ff_rst
 
-![](jk_ff_rst.png)
+![](jk_ff_rst.PNG)
 
 ```vhdl
   p_jk_ff_rst : process (clk)
@@ -463,7 +463,7 @@ begin
 ```
 #### t_ff_rst
 
-![](t_ff_rst.png)
+![](t_ff_rst.PNG)
 
 ```vhdl
  p_d_ff_rst : process (clk)
